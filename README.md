@@ -5,5 +5,5 @@ The purpose of this simple script is to create a Desktop Entry for Eclipse.
 ```bash
 wget -O /tmp/eclipse-desktop-script.sh -nv https://raw.githubusercontent.com/iacosite/eclipse-desktop-script/master/eclipse-desktop-script.sh
 chmod u+x /tmp/eclipse-desktop-script.sh
-chmod u+x /tmp/eclipse-desktop-script.s
+sudo /tmp/eclipse-desktop-script.sh
 ```
